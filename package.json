@@ -1,6 +1,6 @@
 {
   "name": "lyria-npm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Modulo simple para obtener letras de canciones de google",
   "main": "./src/index.js",
   "repository": {
